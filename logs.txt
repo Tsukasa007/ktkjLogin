@@ -1,0 +1,20 @@
+Thu, 29 Aug 2019 11:05:56 test2.py[line:61] INFO: 欢迎登录 | 凯通运营IT支撑系统
+Thu, 29 Aug 2019 11:06:01 test2.py[line:70] INFO: 输入账号: yangjiahui
+Thu, 29 Aug 2019 11:06:02 test2.py[line:75] INFO: 输入密码: Yangjiahui19
+Thu, 29 Aug 2019 11:06:05 test2.py[line:83] INFO: 保存图片
+Thu, 29 Aug 2019 11:06:05 test2.py[line:88] INFO: 识别出验证码: 5019
+Thu, 29 Aug 2019 11:06:05 test2.py[line:89] INFO: 填写验证码: 5019
+Thu, 29 Aug 2019 11:06:07 test2.py[line:97] INFO: 点击登录
+Thu, 29 Aug 2019 11:06:08 test2.py[line:102] INFO: 顶人下号
+Thu, 29 Aug 2019 11:06:34 test2.py[line:108] INFO: 登录成功!
+Thu, 29 Aug 2019 11:06:35 test2.py[line:114] INFO: 转到签到页面: https://ktyw.gdcattsoft.com:8081/ktyw/admin/attendance/attendanceSignList.jsp
+Thu, 29 Aug 2019 11:06:52 test2.py[line:117] INFO: 全部打钩
+Thu, 29 Aug 2019 11:06:53 test2.py[line:121] INFO: 点击批量签到
+Thu, 29 Aug 2019 11:06:59 test2.py[line:130] INFO: 选择其他99
+Thu, 29 Aug 2019 11:07:02 test2.py[line:114] INFO: 转到签到页面: https://ktyw.gdcattsoft.com:8081/ktyw/admin/attendance/attendanceSignList.jsp
+Thu, 29 Aug 2019 11:07:07 test2.py[line:117] INFO: 全部打钩
+Thu, 29 Aug 2019 11:07:08 test2.py[line:121] INFO: 点击批量签到
+Thu, 29 Aug 2019 11:07:10 test2.py[line:130] INFO: 选择其他99
+Thu, 29 Aug 2019 11:07:13 test2.py[line:114] INFO: 转到签到页面: https://ktyw.gdcattsoft.com:8081/ktyw/admin/attendance/attendanceSignList.jsp
+Thu, 29 Aug 2019 11:07:15 test2.py[line:117] INFO: 全部打钩
+Thu, 29 Aug 2019 11:07:16 test2.py[line:121] INFO: 点击批量签到
