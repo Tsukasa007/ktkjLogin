@@ -1,7 +1,7 @@
 {
   "username": "xxx",
   "password": "xxx",
-  "check_code_url": "http://119.23.251.109:6000/check",
+  "check_code_url": "http://checkCode.tsukasa.pro:6000/check",
   "save_img_dir": "./screenImg.png",
   "chrome_driver_dir": "C:\\chromedriver.exe",
   "login_success_url": "ktyw.gdcattsoft.com:8081/ktyw/admin/home2/index.jsp",
