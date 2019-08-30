@@ -134,12 +134,12 @@ def start(username, password, check_code_url, chrome_driver_dir, save_img_dir, l
         browser.find_element_by_name("SREMARK").send_keys("其他其他!213")
         time.sleep(sleep_tiem * 2)
         browser.find_element_by_css_selector("[class='z-btn-text icon-sub']").click()
-        if isElementExist(browser, '操作成功!'):
-            browser.close()
-            logging.info("签到成功")
-            isSuccess = True
-        else:
-            browser.switch_to.parent_frame()
+        # if isElementExist(browser, '操作成功!'):
+        browser.close()
+        logging.info("签到成功")
+        #     isSuccess = True
+        # else:
+        #     browser.switch_to.parent_frame()
 
 
 def main():
