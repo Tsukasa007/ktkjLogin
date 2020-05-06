@@ -8,7 +8,7 @@ import xlwt
 
 logging.basicConfig(level=logging.INFO)
 
-DIR = '/tmp/region'
+DIR = 'C:/KTKJpyXm/ktkjLogin/tmp'
 BASE_URL = 'http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019'
 USER_AGENT = UserAgent().random
 
